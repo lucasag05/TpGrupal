@@ -1,0 +1,73 @@
+*{
+    margin: auto;
+}
+
+nav{
+    background-color: #8BDCE7;
+    width: 100%;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    background-color: rgb(100, 149, 155);
+    margin: 25px;
+    padding: 20px;
+    width: 205px;
+    display: flex;
+    text-align: center;
+    font-size: 25px;
+}
+
+li a{
+    color: black;
+    text-decoration: none;
+}
+
+body{
+    background-color: #AFDAE4;
+}
+
+img{
+    width: 50%;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 53px;
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+}
+
+.extincion{
+    width: 80%;
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 53px;
+}
+
+h1{
+    text-align: center;
+}
+
+.Contacto{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.integrantes{
+    display: block;
+    margin: auto;
+    display: flex;
+    width: 30%;
+}
+
+.img1{
+    margin-right: 2cm;
+}
